@@ -8,3 +8,6 @@ en cuenta que el pais de debe ingresarse con su código respectivo (por el ejemp
 
 ![Shot072](https://user-images.githubusercontent.com/34484881/74471507-0f233480-4e7f-11ea-955d-82ab5ba3cdb8.png)
 
+
+![Shot073](https://user-images.githubusercontent.com/34484881/74471697-6c1eea80-4e7f-11ea-94a5-dc212a6e6489.png)
+
